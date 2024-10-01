@@ -2,9 +2,11 @@
 
 ![Screenshot 2024-10-01 095405](https://github.com/user-attachments/assets/312e3759-47d4-4343-9d3b-7e7ecae724fa)
 
-<h3 align="center">Hey, my name is Alan Zaharia, I just turned 19 years old and I'm a third year studying BSc(Hons) in Applied Computing focusing on Forensics and Security.</h3>
+<h3 align="center">Hey, my name is Alan Zaharia and I'm a third year studying BSc(Hons) in Applied Computing focusing on Forensics and Security.</h3>
 
-<p>I'm currently studying in SETU Waterford.</p>
+🔊About me
+- I'm currently studying in SETU Waterford, I just turned 19 years old.
+- 
 The modules I'm currently studying in my third year include:
   
 - 🛜 Network Forensics
