@@ -1,7 +1,21 @@
 <h1 align="center">Welcome to my GitHub page.</h1>
-<h3 align="center">Hey, my name is Alan Zaharia and I'm a 3rd year studying BSc(Hons in) Applied Computing focusing on Forensics and Security.</h3>
 
 ![Screenshot 2024-10-01 095405](https://github.com/user-attachments/assets/312e3759-47d4-4343-9d3b-7e7ecae724fa)
+
+<h3 align="center">Hey, my name is Alan Zaharia and I'm a third year studying BSc(Hons in) Applied Computing focusing on Forensics and Security.</h3>
+
+<p>I'm currently studying in SETU waterford, such modules I'm studying at the moment in year three are
+  
+-Network Forensics
+-Developer Operations
+-Website Development 2
+-NoSql DataBases
+-Legal Principles of Computer Forensics
+-Professional Practice
+-</p>
+
+Throughout my academic journey, I thrive to improve my skills and computer prowess for the future that awaits.
+
 
 - 📫 EMAIL ME alanzaharia52@gmail.com
 
