@@ -7,12 +7,12 @@
 <p>I'm currently studying in SETU Waterford.</p>
 The modules I'm currently studying in my third year include:
   
--Network Forensics
--Developer Operations
--Website Development 2
--NoSql DataBases
--Legal Principles of Computer Forensics
--Professional Practice
+- Network Forensics
+- Developer Operations
+- Website Development 2
+- NoSql DataBases
+- Legal Principles of Computer Forensics
+- Professional Practice
 -</p>
 
 Throughout my academic journey, I strive to improve my skills and computer prowess for the future that awaits. 
