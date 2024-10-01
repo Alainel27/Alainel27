@@ -6,7 +6,7 @@
 
 🔊About me
 - I'm currently studying in SETU Waterford, I just turned 19 years old.
-- 
+  
 The modules I'm currently studying in my third year include:
   
 - 🛜 Network Forensics
