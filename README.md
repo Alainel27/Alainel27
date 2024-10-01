@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alainel27&label=Profile%20views&color=0e75b6&style=flat" alt="alainel27" /> </p>
 
-- 📫 How to reach me **alanzaharia52@gmail.com**
 
-- Check out my LinkedIn!! [www.linkedin.com/in/alan-zaharia](www.linkedin.com/in/alan-zaharia)
 
-<h3 align="left">Connect with me:</h3>
+- 📫 EMAIL ME **alanzaharia52@gmail.com**
+
+- 👍 Check out my LinkedIn also!! [www.linkedin.com/in/alan-zaharia](www.linkedin.com/in/alan-zaharia)
+
+<h3 align="left">👌 Connect with me through my LinkedIn!! :</h3>
 <p align="left">
 </p>
 
