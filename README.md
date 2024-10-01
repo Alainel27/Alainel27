@@ -1,10 +1,7 @@
 <h1 align="center">Welcome to my GitHub page.</h1>
 <h3 align="center">Hey, my name is Alan Zaharia and I am 3rd year in BSc(Hons) Applied Computing in SETU focusing on Forensics and Security.</h3>
 
-![Screenshot 2024-10-01 095405][Screenshot 2024-10-01 095405.png]
-
-
-
+![alt text](https://github.com/Alainel27/[Alainel27/blob/main/Screenshot 2024-10-01 095405.png?raw=true)
 
 - 📫 EMAIL ME alanzaharia52@gmail.com
 
