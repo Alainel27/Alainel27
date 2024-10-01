@@ -8,9 +8,11 @@
 
 - 📫 EMAIL ME alanzaharia52@gmail.com
 
-- 👍 Check out my LinkedIn also!! [www.linkedin.com/in/alan-zaharia](www.linkedin.com/in/alan-zaharia)
+
 
 <h3 align="left">👌 Connect with me through my LinkedIn!! :</h3>
+
+- 👍 Check out my LinkedIn also!! [www.linkedin.com/in/alan-zaharia](www.linkedin.com/in/alan-zaharia)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alainel27&label=Profile%20views&color=0e75b6&style=flat" alt="alainel27" /> </p>
 
