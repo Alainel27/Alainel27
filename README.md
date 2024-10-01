@@ -19,9 +19,6 @@ Throughout my academic journey, I strive to improve my skills and computer prowe
 
 As much as I love computers I also love to space, piano, singing, nature, free diving, skating, snowboarding, gaming and reading.
 
-![image](https://github.com/user-attachments/assets/c65adb57-5e05-44a1-ba7d-592b4a4e2e14 ){width=100}
-
-
 - 📫 EMAIL ME alanzaharia52@gmail.com
 
 
