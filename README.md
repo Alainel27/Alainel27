@@ -23,7 +23,7 @@ As much as I love computers, I also love space, piano, singing, nature, free div
 
 <h3 align="left">👌 Connect with me through my LinkedIn!! :</h3>
 
-👍 Check it out!! [www.linkedin.com/in/alan-zaharia](www.linkedin.com/in/alan-zaharia)
+👍 Check it out!! [CLICK HERE](www.linkedin.com/in/alan-zaharia)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alainel27&label=Profile%20views&color=0e75b6&style=flat" alt="alainel27" /> </p>
 
