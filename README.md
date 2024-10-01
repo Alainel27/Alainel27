@@ -17,6 +17,8 @@ The modules I'm currently studying in my third year include:
 
 Throughout my academic journey, I strive to improve my skills and computer prowess for the future that awaits. 
 
+As much as I love computers I also love to space, piano, singing, nature, free diving, skating, snowboarding, gaming and reading.
+
 
 - 📫 EMAIL ME alanzaharia52@gmail.com
 
