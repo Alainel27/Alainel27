@@ -5,7 +5,7 @@
 
 
 
-- 📫 EMAIL ME **alanzaharia52@gmail.com**
+- 📫 EMAIL ME alanzaharia52@gmail.com
 
 - 👍 Check out my LinkedIn also!! [www.linkedin.com/in/alan-zaharia](www.linkedin.com/in/alan-zaharia)
 
