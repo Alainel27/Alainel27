@@ -21,8 +21,6 @@ As much as I love computers I also love to space, piano, singing, nature, free d
 
 - 📫 EMAIL ME alanzaharia52@gmail.com
 
-![image |100](https://github.com/user-attachments/assets/c65adb57-5e05-44a1-ba7d-592b4a4e2e14)
-
 <h3 align="left">👌 Connect with me through my LinkedIn!! :</h3>
 
 - 👍 Check out my LinkedIn also!! [www.linkedin.com/in/alan-zaharia](www.linkedin.com/in/alan-zaharia)
