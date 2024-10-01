@@ -5,7 +5,7 @@
 <h3 align="center">Hey, my name is Alan Zaharia and I'm a third year studying BSc(Hons) in Applied Computing focusing on Forensics and Security.</h3>
 
 🔊About me
-- I'm currently studying in SETU Waterford, I just turned 19 years old.
+- I'm currently studying in SETU Waterford and I just turned 19 years old.
   
 The modules I'm currently studying in my third year include:
   
