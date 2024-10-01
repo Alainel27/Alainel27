@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my GitHub page. Alan Zaharia.</h1>
 <h3 align="center">I am 3rd year in BSc(Hons) Applied Computing in SETU focusing on Forensics and Security.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alainel27&label=Profile%20views&color=0e75b6&style=flat" alt="alainel27" /> </p>
+
 
 
 
@@ -10,6 +10,10 @@
 - 👍 Check out my LinkedIn also!! [www.linkedin.com/in/alan-zaharia](www.linkedin.com/in/alan-zaharia)
 
 <h3 align="left">👌 Connect with me through my LinkedIn!! :</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alainel27&label=Profile%20views&color=0e75b6&style=flat" alt="alainel27" /> </p>
+
+
 <p align="left">
 </p>
 
