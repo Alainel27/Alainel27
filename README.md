@@ -19,11 +19,11 @@ Throughout my academic journey, I strive to improve my communication skills and 
 
 As much as I love computers, I also love space, piano, singing, nature, free diving, skating, snowboarding, gaming, drawing, reading and much more!.
 
-- 📫 EMAIL ME  [alanzaharia52@gmail.com]
+- 📫 EMAIL ME alanzaharia52@gmail.com
 
 <h3 align="left">👌 Connect with me through my LinkedIn!! :</h3>
 
-👍 Check it out!! [CLICK HERE](www.linkedin.com/in/alan-zaharia)
+👍 Check it out!! [My LinkedIn](www.linkedin.com/in/alan-zaharia/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alainel27&label=Profile%20views&color=0e75b6&style=flat" alt="alainel27" /> </p>
 
