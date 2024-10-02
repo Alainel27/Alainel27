@@ -5,8 +5,11 @@
 <h3 align="center">Hey, my name is Alan Zaharia and I'm a third year studying BSc(Hons) in Applied Computing focusing on Forensics and Security.</h3>
 
 <h3>About me</h3>
+
 - I'm currently studying in SETU Waterford and I just turned 19.
 - I can speak English and Romanian
+Throughout my academic journey, I strive to improve my communication skills and computer prowess for the future that awaits. 
+As much as I love computers, I also love space, piano, singing, nature, free diving, skating, snowboarding, gaming, drawing, reading and much more!
   
 The modules I'm currently studying in my third year include:
   
@@ -24,10 +27,6 @@ The modules I'm currently studying in my third year include:
 -  DevOps
 -  Forensics Tools
 -  Website Development
-
-Throughout my academic journey, I strive to improve my communication skills and computer prowess for the future that awaits. 
-
-As much as I love computers, I also love space, piano, singing, nature, free diving, skating, snowboarding, gaming, drawing, reading and much more!
 
 👓 Have a look at my projects!!!
 
