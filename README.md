@@ -6,6 +6,7 @@
 
 🔊About me
 - I'm currently studying in SETU Waterford and I just turned 19.
+- I can speak English and Romanian
   
 The modules I'm currently studying in my third year include:
   
@@ -17,6 +18,12 @@ The modules I'm currently studying in my third year include:
 - 🗣️ Professional Practice
 </p>
 
+<h1>Willing to do</h1>
+- Coding
+- DevOps
+- Forensics Tools
+- Website Development
+
 Throughout my academic journey, I strive to improve my communication skills and computer prowess for the future that awaits. 
 
 As much as I love computers, I also love space, piano, singing, nature, free diving, skating, snowboarding, gaming, drawing, reading and much more!
@@ -25,7 +32,7 @@ As much as I love computers, I also love space, piano, singing, nature, free div
 
 📫 EMAIL ME alanzaharia52@gmail.com
 
-<h1>Willing to do</h1>
+
 
 <h3 >👌 Connect with me through my LinkedIn!! :</h3>
 
