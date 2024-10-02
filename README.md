@@ -2,7 +2,7 @@
 
 ![Screenshot 2024-10-01 095405](https://github.com/user-attachments/assets/312e3759-47d4-4343-9d3b-7e7ecae724fa)
 
-<h3 align="center">My name is Alan Zaharia, and I am currently a third-year student pursuing a BSc (Hons) in Applied Computing, specializing in Forensics and Security..</h3>
+<h3 align="center">My name is Alan Zaharia, and I am currently a third-year student pursuing a BSc (Hons) in Applied Computing, specializing in Forensics and Security.</h3>
 
 <h3>About me</h3>
 
