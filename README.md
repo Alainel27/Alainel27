@@ -128,5 +128,3 @@ As much as I love computers, I also love space, piano, singing, nature, free div
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 </div>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alainel27&" alt="alainel27" /></p>
