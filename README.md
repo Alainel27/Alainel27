@@ -8,8 +8,7 @@
 
 - I'm currently studying in SETU Waterford and I just turned 19.
 - I can speak English and Romanian
-Throughout my academic journey, I strive to improve my communication skills and computer prowess for the future that awaits. 
-As much as I love computers, I also love space, piano, singing, nature, free diving, skating, snowboarding, gaming, drawing, reading and much more!
+
   
 The modules I'm currently studying in my third year include:
   
@@ -20,13 +19,15 @@ The modules I'm currently studying in my third year include:
 - ⚖️ Legal Principles of Computer Forensics
 - 🗣️ Professional Practice
   
-
 <h3>Willing to do</h3>
 
 -  Programming
 -  DevOps
 -  Forensics Tools
 -  Website Development
+
+   hroughout my academic journey, I strive to improve my communication skills and computer prowess for the future that awaits. 
+As much as I love computers, I also love space, piano, singing, nature, free diving, skating, snowboarding, gaming, drawing, reading and much more!
 
 👓 Have a look at my projects!!!
 
