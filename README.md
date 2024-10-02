@@ -18,11 +18,11 @@ The modules I'm currently studying in my third year include:
 - 🗣️ Professional Practice
   
 
-<h1>Willing to do</h1>
-- Coding
-- DevOps
-- Forensics Tools
-- Website Development
+<h2>Willing to do</h2>
+-  Coding
+-  DevOps
+-  Forensics Tools
+-  Website Development
 
 Throughout my academic journey, I strive to improve my communication skills and computer prowess for the future that awaits. 
 
