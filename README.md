@@ -21,6 +21,8 @@ Throughout my academic journey, I strive to improve my communication skills and 
 
 As much as I love computers, I also love space, piano, singing, nature, free diving, skating, snowboarding, gaming, drawing, reading and much more!
 
+👓 Have a look at my projects!!!
+
 📫 EMAIL ME alanzaharia52@gmail.com
 
 <h3 >👌 Connect with me through my LinkedIn!! :</h3>
