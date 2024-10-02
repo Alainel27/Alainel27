@@ -20,7 +20,7 @@ The modules I'm currently studying in my third year include:
 
 <h2>Willing to do</h2>
 
--  Coding
+-  Programming
 -  DevOps
 -  Forensics Tools
 -  Website Development
