@@ -16,7 +16,7 @@ The modules I'm currently studying in my third year include:
 - 📗 NoSql DataBases
 - ⚖️ Legal Principles of Computer Forensics
 - 🗣️ Professional Practice
-</p>
+  
 
 <h1>Willing to do</h1>
 - Coding
