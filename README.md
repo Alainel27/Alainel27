@@ -42,8 +42,6 @@ As much as I love computers, I also love space, piano, singing, nature, free div
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alainel27&label=Profile%20views&color=0e75b6&style=flat" alt="alainel27" /> </p>
 
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31rmxwwfiavcjwgmeuncksxnr6ye&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
 <p align="left">
 </p>
 
