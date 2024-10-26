@@ -28,7 +28,6 @@ The modules I'm currently studying in my third year include:
 -  Security
 
 Throughout my academic journey, I strive to improve my communication skills and computer prowess for the future that awaits. 
-As much as I love computers, I also love space, piano, singing, nature, free diving, skating, snowboarding, gaming, drawing, reading and much more!
 
 👓 Have a look at my projects!!!
 
