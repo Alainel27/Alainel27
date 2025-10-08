@@ -11,7 +11,7 @@ Anything with computer forensics but I prefer to work on Open-Source Intelligenc
 Currently I am working on my Final Year Project for this year.
 
 MY FYP:
-Streamlined Open-Source Intelligence Application with Risk Assessment .
+Streamlined Open-Source Intelligence Application with Risk Assessment.
 
 
 📫 EMAIL ME - alanzaharia52@gmail.com
