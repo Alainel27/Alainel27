@@ -5,14 +5,13 @@
 <h3 align="center">My name is Alan Zaharia, and I am currently a Fourth-year student in SETU pursuing a BSc (Hons) in Applied Computing, specializing in Forensics and Security.</h3>
 
 <h3>Willing to do</h3>
-Anything with computer forensics and security but I love Open-Source Intelligence.
-
-Throughout my academic journey, I strive to improve my communication skills and computer prowess for the future that awaits. 
-
+Anything with computer forensics but I prefer to work on Open-Source Intelligence.
+ 
+<h3>What I'm Working on this Year</h3>
 Currently I am working on my Final Year Project for this year.
 
 MY FYP:
-Streamlined Open-Source Intelligence Application with Risk Assessment.
+Streamlined Open-Source Intelligence Application with Risk Assessment .
 
 
 📫 EMAIL ME - alanzaharia52@gmail.com
