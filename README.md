@@ -2,34 +2,18 @@
 
 ![Screenshot 2024-10-01 095405](https://github.com/user-attachments/assets/312e3759-47d4-4343-9d3b-7e7ecae724fa)
 
-<h3 align="center">My name is Alan Zaharia, and I am currently a third-year student pursuing a BSc (Hons) in Applied Computing, specializing in Forensics and Security.</h3>
+<h3 align="center">My name is Alan Zaharia, and I am currently a Fourth-year student in SETU pursuing a BSc (Hons) in Applied Computing, specializing in Forensics and Security.</h3>
 
-<h3>About me</h3>
-
-- I'm currently studying in SETU Waterford and I just turned 19.
-- I can speak English and Romanian
-
-  
-The modules I'm currently studying in my third year include:
-  
-- 🛜 Network Forensics 
-- 🧑‍💻 Developer Operations
-- 🕸️ Website Development 2
-- 📗 NoSql DataBases
-- ⚖️ Legal Principles of Computer Forensics
-- 🗣️ Professional Practice
-  
 <h3>Willing to do</h3>
-
--  Forensics Tools
--  DevOps
--  Programming
--  Website Development
--  Security
+Anything with computer forensics and security but I love Open-Source Intelligence.
 
 Throughout my academic journey, I strive to improve my communication skills and computer prowess for the future that awaits. 
 
-👓 Have a look at my projects!!!
+Currently I am working on my Final Year Project for this year.
+
+MY FYP:
+Streamlined Open-Source Intelligence Application with Risk Assessment.
+
 
 📫 EMAIL ME - alanzaharia52@gmail.com
 
