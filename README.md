@@ -1,7 +1,5 @@
 <h1 align="center">Welcome to my GitHub page.</h1>
 
-![Screenshot 2024-10-01 095405](https://github.com/user-attachments/assets/312e3759-47d4-4343-9d3b-7e7ecae724fa)
-
 <h3 align="center">My name is Alan Zaharia, and I am currently a Fourth-year student in SETU pursuing a BSc (Hons) in Applied Computing, specializing in Forensics and Security.</h3>
 
 <h3>Willing to do</h3>
